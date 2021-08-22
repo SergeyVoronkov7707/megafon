@@ -1,0 +1,5 @@
+,f1,LogisticRegression(),KNeighborsClassifier(),GradientBoostingClassifier(),LGBMClassifier(),CatBoostClassifire,RandomForestClassifier()
+0,1,0.58,0.68,0.94,0.94,0.94,0.92
+1,macro,0.48,0.66,0.94,0.95,0.95,0.93
+2,micro,0.48,0.66,0.94,0.95,0.95,0.93
+3,weighted,0.47,0.65,0.94,0.95,0.95,0.93
